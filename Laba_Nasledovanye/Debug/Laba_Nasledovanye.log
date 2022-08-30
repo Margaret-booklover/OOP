@@ -1,0 +1,26 @@
+﻿  Laba_Nasledovanye.cpp
+  Source.cpp
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\Source.cpp(12,20): warning C4018: <: несоответствие типов со знаком и без знака
+  credit.cpp
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\credit.cpp(44,6): warning C4101: flag: неиспользованная локальная переменная
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\credit.cpp(141,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\credit.cpp(153,7): warning C4101: buf1: неиспользованная локальная переменная
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\credit.cpp(192,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\credit.cpp(200,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\credit.cpp(208,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\credit.cpp(241,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\credit.cpp(247,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\credit.cpp(253,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\credit.cpp(234,6): warning C4101: akk: неиспользованная локальная переменная
+  deposit.cpp
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\deposit.cpp(48,7): warning C4101: flag: неиспользованная локальная переменная
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\deposit.cpp(141,7): warning C4101: buf1: неиспользованная локальная переменная
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\deposit.cpp(177,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\deposit.cpp(185,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\deposit.cpp(193,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\deposit.cpp(215,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\deposit.cpp(221,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\deposit.cpp(227,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\deposit.cpp(208,6): warning C4101: akk: неиспользованная локальная переменная
+  Создание кода...
+  Laba_Nasledovanye.vcxproj -> C:\Users\Fujitsu\Desktop\студент\ООП\Laba_Nasledovanye\Debug\Laba_Nasledovanye.exe

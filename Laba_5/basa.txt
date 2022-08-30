@@ -1,0 +1,6 @@
+5
+ccc ccc c 22 33
+bb aaa aaaa 2 200
+aa aa aa 1 1
+1 1 1 1 1
+1 1 1 1 1

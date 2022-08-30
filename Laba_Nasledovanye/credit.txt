@@ -1,0 +1,4 @@
+3
+          Petrov            Petr       Petrovich          123456      195000,000            3,00              12 
+         Ivanov            Ivan       Ivanovich          324234      170000,000            4,00              36 
+            sss             www             qqq          123456        1000,000            0,00               3 
